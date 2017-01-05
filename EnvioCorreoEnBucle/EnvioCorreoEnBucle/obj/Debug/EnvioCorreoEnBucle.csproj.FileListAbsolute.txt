@@ -1,0 +1,15 @@
+C:\Users\enrique.ramos.vargas\Documents\Visual Studio 2012\Projects\EnvioCorreoEnBucle\EnvioCorreoEnBucle\bin\Debug\EnvioCorreoEnBucle.exe.config
+C:\Users\enrique.ramos.vargas\Documents\Visual Studio 2012\Projects\EnvioCorreoEnBucle\EnvioCorreoEnBucle\bin\Debug\EnvioCorreoEnBucle.exe
+C:\Users\enrique.ramos.vargas\Documents\Visual Studio 2012\Projects\EnvioCorreoEnBucle\EnvioCorreoEnBucle\bin\Debug\EnvioCorreoEnBucle.pdb
+C:\Users\enrique.ramos.vargas\Documents\Visual Studio 2012\Projects\EnvioCorreoEnBucle\EnvioCorreoEnBucle\bin\Debug\Microsoft.Exchange.WebServices.Auth.dll
+C:\Users\enrique.ramos.vargas\Documents\Visual Studio 2012\Projects\EnvioCorreoEnBucle\EnvioCorreoEnBucle\bin\Debug\Microsoft.Exchange.WebServices.dll
+C:\Users\enrique.ramos.vargas\Documents\Visual Studio 2012\Projects\EnvioCorreoEnBucle\EnvioCorreoEnBucle\bin\Debug\Microsoft.Exchange.WebServices.pdb
+C:\Users\enrique.ramos.vargas\Documents\Visual Studio 2012\Projects\EnvioCorreoEnBucle\EnvioCorreoEnBucle\bin\Debug\Microsoft.Exchange.WebServices.xml
+C:\Users\enrique.ramos.vargas\Documents\Visual Studio 2012\Projects\EnvioCorreoEnBucle\EnvioCorreoEnBucle\bin\Debug\Microsoft.Exchange.WebServices.Auth.pdb
+C:\Users\enrique.ramos.vargas\Documents\Visual Studio 2012\Projects\EnvioCorreoEnBucle\EnvioCorreoEnBucle\bin\Debug\Microsoft.Exchange.WebServices.Auth.xml
+C:\Users\enrique.ramos.vargas\Documents\Visual Studio 2012\Projects\EnvioCorreoEnBucle\EnvioCorreoEnBucle\obj\Debug\EnvioCorreoEnBucle.csprojResolveAssemblyReference.cache
+C:\Users\enrique.ramos.vargas\Documents\Visual Studio 2012\Projects\EnvioCorreoEnBucle\EnvioCorreoEnBucle\obj\Debug\EnvioCorreoEnBucle.exe
+C:\Users\enrique.ramos.vargas\Documents\Visual Studio 2012\Projects\EnvioCorreoEnBucle\EnvioCorreoEnBucle\obj\Debug\EnvioCorreoEnBucle.pdb
+C:\Users\enrique.ramos.vargas\Documents\Visual Studio 2012\Projects\EjemplosExchangeWebServices-master\EnvioCorreoEnBucle\EnvioCorreoEnBucle\bin\Debug\EnvioCorreoEnBucle.exe.config
+C:\Users\enrique.ramos.vargas\Documents\Visual Studio 2012\Projects\EjemplosExchangeWebServices-master\EnvioCorreoEnBucle\EnvioCorreoEnBucle\obj\Debug\EnvioCorreoEnBucle.exe
+C:\Users\enrique.ramos.vargas\Documents\Visual Studio 2012\Projects\EjemplosExchangeWebServices-master\EnvioCorreoEnBucle\EnvioCorreoEnBucle\obj\Debug\EnvioCorreoEnBucle.pdb
